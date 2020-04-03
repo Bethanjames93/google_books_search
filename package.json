@@ -1,0 +1,22 @@
+{
+  "name": "google_books_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bethanjames93/google_books_search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bethanjames93/google_books_search/issues"
+  },
+  "homepage": "https://github.com/Bethanjames93/google_books_search#readme"
+}
