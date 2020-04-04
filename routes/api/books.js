@@ -10,4 +10,4 @@ router
     .get(bookController.findById)
     .put(bookController.update);
 
-modeule.exports = router;
+modeule.exports = router; 
