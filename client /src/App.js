@@ -15,7 +15,7 @@ function App() {
           <Route exact path={["/", "/Home"]}>
             <Home />
           </Route>
-          <Route exact path={["/NoMatch"]}>
+          <Route component={NoMatch}>
             <NoMatch />
           </Route>
           <Route exact path={["/Saved"]}>
