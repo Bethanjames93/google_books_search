@@ -23,6 +23,9 @@
     "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
+  "engines": {
+    "node": "13.3.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Bethanjames93/google_books_search.git"
